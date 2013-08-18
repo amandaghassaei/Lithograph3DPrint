@@ -24,7 +24,7 @@ int heightRes;
 float widthDim = 5;//width dimension (in inches)
 float widthScaled;
 float heightScaled;
-float zDim = 1;//max vertical displacement (in inches)
+float zDim = 0.1;//max vertical displacement (in inches)
 float thickness = 0.02;//base thickness (in inches)
 
 boolean invert = true;//if true, then white areas are lower than black, if not true white areas are taller
