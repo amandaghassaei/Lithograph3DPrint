@@ -16,7 +16,7 @@ import unlekker.modelbuilder.*;
 import ec.util.*;
 
 
-String name = "your_file_name_here";//name of file
+String name = "MY_FILE.jpg";//name of file (with extension, pngs will work too)
 
 //storage for dimensions
 int widthRes;
